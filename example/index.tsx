@@ -1,7 +1,12 @@
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { ProductCard, ProductButtons, ProductImage, ProductTitle } from '../.';
+import {
+  ProductCard,
+  ProductButtons,
+  ProductImage,
+  ProductTitle,
+} from '../src/components';
 
 const product = {
   id: '1',

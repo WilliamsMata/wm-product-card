@@ -1,10 +1,8 @@
 # wm-product-card
 
-Este es un paquete de pruebas de despliegues en NPM
+This is a test package for NPM deployments
 
-### Fernando Herrera
-
-## Ejemplo
+## Example
 
 ```javascript
 import {
