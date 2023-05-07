@@ -1,5 +1,4 @@
 import React, { CSSProperties, FC, createContext } from 'react';
-
 import { useProduct } from '../hooks/useProduct';
 import {
   InitialValues,
